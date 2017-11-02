@@ -1,2 +1,2 @@
 #@ practice-git
-je peux ecrire et modifier mon md via le depot local
+je peux ecrire et modifier mon fichier  md via mon  depot local
